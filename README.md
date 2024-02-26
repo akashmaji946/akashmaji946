@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on coding interview practices and academic studies.
 - 📫 How to reach me ? Contact: akashmaji946@gmail.com (+91 91316-97371)
 - AVAILABLE AT: https://linkedin.com/in/akashmaji946/
-- Also checkout my portfolio website at: https://akashmaji.com/
+- Also checkout my portfolio website at: https://akashmaji.me/
 
 <!---
 akashmaji946/akashmaji946 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
