@@ -1,8 +1,9 @@
 ## Namaskar!!
 - 👋 Hi, I’m @akashmaji946 (aka. Akash Maji)
+- 🌱 I’m currently pusuing M.Tech in CSE at IISc, Bangalore. I finished my B.Tech in CSE from TIT-Bhopal.
 - 👀 I’m interested in AI/ML, Cloud, WebDev, Linux, Normal Coding, Competitive Coding and Programming Languages.
 - 🌱 I’m currently learning and working on new technologies like Azure, Java, C++, Python etc.
-- 💞️ I’m looking to collaborate on coding interview practices and academic studies.
+- 💞️ I’m looking to collaborate on research and academic studies.
 - 📫 How to reach me ? Contact: akashmaji946@gmail.com (+91 91316-97371)
 - AVAILABLE AT: https://linkedin.com/in/akashmaji946/
 - Also checkout my portfolio website at: https://akashmaji.me/
