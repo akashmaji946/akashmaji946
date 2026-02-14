@@ -1,22 +1,29 @@
-## Namaskar!!
-- 👋 Hi, I’m @akashmaji946 (aka. Akash Maji)
-- 🌱 I’m currently pusuing M.Tech in CSE at IISc, Bangalore.
-- 🌱 I finished my B.Tech in CSE from RGPV-Bhopal.
-- 👀 I’m interested in AI/ML, Cloud, WebDev, Linux, Coding, Competitive Coding and Programming Languages.
-- 🌱 I’m currently learning and working on new technologies like Azure, Java, C++, Python etc.
-- 💞️ I’m looking to collaborate on research and academic studies.
-- 📫 How to reach me ? Contact: akashmaji946@gmail.com (akashmaji@iisc.ac.in)
-- Available at: https://linkedin.com/in/akashmaji946/
-- Also checkout my portfolio website at: https://akashmaji.me/
+# akashmaji946
 
-### Languages & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/language-Python-brightgreen)
+![Java](https://img.shields.io/badge/language-Java-orange)
+![C++](https://img.shields.io/badge/language-C++-blue)
+![Azure](https://img.shields.io/badge/tool-Azure-blueviolet)
+![AI/ML](https://img.shields.io/badge/AI/ML-Tools-red)
+![Cloud](https://img.shields.io/badge/tool-Cloud-lightblue)
+![WebDev](https://img.shields.io/badge/tool-WebDev-yellow)
+![Linux](https://img.shields.io/badge/tool-Linux-lightgray)
+![Competitive Coding](https://img.shields.io/badge/tool-Competitive%20Coding-purple)
 
-<!---
-akashmaji946/akashmaji946 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About
+This repository contains a collection of my projects and experiments. The aim is to showcase my skills and interests in various fields, particularly in software development.
+
+## Tools & Technologies
+- Python
+- Java
+- C++
+- Azure cloud services
+- AI & ML frameworks
+- Web Development
+- Linux operating systems
+- Competitive programming resources
+
+## Contact
+Feel free to reach out for collaboration or inquiries.  
+Email: example@example.com  
+GitHub: [@akashmaji946](https://github.com/akashmaji946)
