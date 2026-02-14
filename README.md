@@ -1,29 +1,16 @@
-# akashmaji946
+# Professional Profile
 
-![Python](https://img.shields.io/badge/language-Python-brightgreen)
-![Java](https://img.shields.io/badge/language-Java-orange)
-![C++](https://img.shields.io/badge/language-C++-blue)
-![Azure](https://img.shields.io/badge/tool-Azure-blueviolet)
-![AI/ML](https://img.shields.io/badge/AI/ML-Tools-red)
-![Cloud](https://img.shields.io/badge/tool-Cloud-lightblue)
-![WebDev](https://img.shields.io/badge/tool-WebDev-yellow)
-![Linux](https://img.shields.io/badge/tool-Linux-lightgray)
-![Competitive Coding](https://img.shields.io/badge/tool-Competitive%20Coding-purple)
+## Languages & Tools
 
-## About
-This repository contains a collection of my projects and experiments. The aim is to showcase my skills and interests in various fields, particularly in software development.
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=ffffff)
+![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=ffffff)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000000)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-E94E1B?style=flat-square&logo=tensorflow&logoColor=ffffff)
 
-## Tools & Technologies
-- Python
-- Java
-- C++
-- Azure cloud services
-- AI & ML frameworks
-- Web Development
-- Linux operating systems
-- Competitive programming resources
-
-## Contact
-Feel free to reach out for collaboration or inquiries.  
-Email: example@example.com  
-GitHub: [@akashmaji946](https://github.com/akashmaji946)
+![Profile Badge](https://img.shields.io/badge/-Profile%20Badge-4F80BE?style=flat-square&logo=github&logoColor=ffffff)
