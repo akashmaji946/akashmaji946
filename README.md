@@ -77,9 +77,3 @@ Feel free to reach out to me for collaboration, discussions, or opportunities!
 - **Portfolio**: [akashmaji.me](https://akashmaji.me/)
 
 ---
-
-## 📊 GitHub Stats
-
-![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashmaji946&show_icons=true&theme=radical)
-
----
